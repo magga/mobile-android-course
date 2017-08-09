@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "239819811261",
+    "firebase_url": "https://example-4db9f.firebaseio.com",
+    "project_id": "example-4db9f",
+    "storage_bucket": "example-4db9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239819811261:android:a97251cd8342610d",
+        "android_client_info": {
+          "package_name": "id.magga.settingupfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239819811261-un9es500pi28ivubfe42bq03k7qfqac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxTEqt75CaDBud_lH5nUyJh4NEs-1wRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239819811261:android:5f0a18e8210b357d",
+        "android_client_info": {
+          "package_name": "id.magga.admob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239819811261-un9es500pi28ivubfe42bq03k7qfqac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxTEqt75CaDBud_lH5nUyJh4NEs-1wRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
